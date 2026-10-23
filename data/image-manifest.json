@@ -1,0 +1,103 @@
+{
+ "hero-studio": {
+  "ratio": 1.7786,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ]
+ },
+ "studio-berawa": {
+  "ratio": 2.0027,
+  "widths": [
+   480,
+   745
+  ]
+ },
+ "class-reformer-abs-n-ass": {
+  "ratio": 1.3333,
+  "widths": [
+   640,
+   1200
+  ]
+ },
+ "class-reformer-strength": {
+  "ratio": 1.3333,
+  "widths": [
+   640,
+   1200
+  ]
+ },
+ "class-reformer-flow": {
+  "ratio": 1.3346,
+  "widths": [
+   480,
+   702
+  ]
+ },
+ "class-mat-flow": {
+  "ratio": 1.3333,
+  "widths": [
+   640,
+   1200,
+   1800
+  ]
+ },
+ "class-private-reformer": {
+  "ratio": 1.3341,
+  "widths": [
+   640,
+   1200
+  ]
+ },
+ "team-june-louie": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ },
+ "team-charlotte-oktaviana-chandra": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ },
+ "team-xavier-fabrega": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ },
+ "team-christophe-blanc": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ },
+ "team-fiona-palumbo": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ },
+ "team-audrey-hamel": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ },
+ "team-maria-chaikovskaia": {
+  "ratio": 1,
+  "widths": [
+   400,
+   800
+  ]
+ }
+}

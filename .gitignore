@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env*.local
+.vercel
+*.log
+
+# Phase 1 audit material stays local (not part of the site repo)
+docs/

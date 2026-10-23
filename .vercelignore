@@ -1,0 +1,6 @@
+# Not needed to build or serve the site: audit docs, screenshots, original
+# full-size photos (derivatives in public/images are generated locally), tooling.
+docs/
+scripts/
+*.md
+.vercel

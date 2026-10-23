@@ -1,0 +1,20 @@
+{
+  "name": "kor-pilates-bali",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "images": "node scripts/build-images.mjs"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

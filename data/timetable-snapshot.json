@@ -1,0 +1,1014 @@
+{
+ "captured": "2026-10-23",
+ "note": "Snapshot of /timetable (Classes tab) 2026-10-23..2026-11-05. Times are studio-local (business timezone Asia/Jakarta) although the API labels them +00:00. Live data - do not hardcode.",
+ "sessions": [
+  {
+   "start": "2026-10-24T08:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 7,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-24T09:30:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-24T10:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 7,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-25T09:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 7,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-25T10:15:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-26T08:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 7,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-26T09:15:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-26T10:30:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 5,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-26T16:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 7,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-26T17:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-27T07:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-27T08:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-27T09:15:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-27T10:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-27T16:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-27T17:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 6,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-28T08:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-28T09:15:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-28T10:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-28T16:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-10-29T07:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-29T08:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-10-29T09:15:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-10-29T10:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-10-29T16:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-29T17:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-10-30T08:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": "You can only book 7 days before class start.",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-30T09:15:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": "You can only book 7 days before class start.",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-30T10:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": "You can only book 7 days before class start.",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-30T16:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": "You can only book 7 days before class start.",
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-10-31T08:30:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "You can only book on 24 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-31T09:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 24 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-10-31T10:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 24 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-01T09:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "You can only book on 25 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-11-01T10:15:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 25 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-11-02T08:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-02T09:15:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-02T10:30:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-02T16:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-02T17:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-03T07:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-03T08:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-11-03T09:15:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-11-03T10:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 27 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-11-03T16:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-03T17:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-04T08:00:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 28 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-04T09:15:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "You can only book on 28 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-04T10:30:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 28 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-04T16:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-11-05T07:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Christophe Blanc"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#13D455"
+  },
+  {
+   "start": "2026-11-05T08:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-11-05T09:15:00+00:00",
+   "class": "Reformer Abs n' Ass",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-11-05T10:30:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "June Louie"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": false,
+   "reason": "You can only book on 29 Oct 2026 at 12:00 AM",
+   "cancelled": false,
+   "color": "#787878"
+  },
+  {
+   "start": "2026-11-05T16:00:00+00:00",
+   "class": "Reformer Flow",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": null,
+   "ableToBook": false,
+   "reason": "BookingClosed",
+   "cancelled": false,
+   "color": "#887FF0"
+  },
+  {
+   "start": "2026-11-05T17:00:00+00:00",
+   "class": "Reformer Strength",
+   "category": "Group Class",
+   "duration": "00:50:00",
+   "facility": "Group Reformer Studio - Berawa",
+   "location": "KOR Pilates Bali",
+   "trainers": [
+    "Audrey Hamel"
+   ],
+   "totalSlot": 8,
+   "availableSlot": 8,
+   "level": "Open to all",
+   "ableToBook": true,
+   "reason": null,
+   "cancelled": false,
+   "color": "#887FF0"
+  }
+ ]
+}

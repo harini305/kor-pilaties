@@ -2,7 +2,12 @@
 export const site = {
   name: 'KOR Pilates Bali',
   tagline: 'KOR: More Than Pilates',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
+  // Canonical URLs and the sitemap: an explicit NEXT_PUBLIC_SITE_URL wins, then the
+  // Vercel production domain (provided at build time), then localhost for local work.
+  url:
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    (process.env.VERCEL_PROJECT_PRODUCTION_URL && `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`) ||
+    'http://localhost:3000',
   email: 'operations@korbyhouseofpilates.com',
   phoneDisplay: '+62 811 3830 5165',
   phoneHref: 'tel:+6281138305165',
